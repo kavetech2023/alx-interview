@@ -22,4 +22,4 @@ def canUnlockAll(boxes):
                 break
         if boxes_checked is False:
             return boxes_checked
-    return Truei
+    return True
