@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-0-pascal_triangle creates and invokes  a simple pascal_triangle function.
+0-pascal_triangle file => creates and invokes a simple pascal_triangle function.
 """
 
 
